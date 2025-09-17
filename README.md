@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer | Computer Science Undergraduate at Universityof Colombo School of Computing | </h3>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/US6odsnLHQxTlqTEeF/giphy.webp" alt="Matthew Macri" width="280" />
+  <img src="https://giphy.com/gifs/funny-dancing-rEbJjSjoS8qYM" alt="vsr2414" width="280" />
 </p>
 
 <p align="center">
