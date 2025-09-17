@@ -16,8 +16,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Education:** Computer Science student at University of Colombo School of Computing  
-- 🌐 **Portfolio:** [Portfolio Website](https://github.com/vsr2414/Portfolio-Website-Project)  
-- 🌦️ **Latest Project:** [Weather Web App](https://github.com/vsr2414/Internet-Programming-Project)  
+- 🌐 **Portfolio:** 
+- 🌦️ **Latest Project:**  
 - 🚀 **Currently Exploring:** React, Vue.js, GSAP, LINQ, i18n, and advanced DOM APIs  
 - 💬 **Interests:** Frontend development, backend architecture, multi-language applications  
 - 🌍 **Languages:** English, Sinhala, Tamil  
@@ -50,12 +50,6 @@
 ---
 
 ## 🚀 Featured Projects
-
-- 🔗 [**Portfolio Website**](https://github.com/vsr2414/Portfolio-Website-Project)  
-  A responsive, personal site built with HTML, CSS, and JavaScript
-
-- 🌧️ [**Weather App**](https://github.com/vsr2414/Internet-Programming-Project)  
-  Displays real-time weather using public APIs and dynamic UI features
 
 ---
 
