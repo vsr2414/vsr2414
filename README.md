@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Visitha</h1>
-<h3 align="center">💻 Full Stack Developer | Computer Science Undergraduate at Universityof Colombo School of Computing  </h3>
+<h3 align="center">💻 Full Stack Developer | Computer Science Undergraduate at University of Colombo School of Computing  </h3>
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/2f10e5af4e71e2bad48b8dc66ccc9d38deb29f85aa0932d9fe7f1829ac2a260d/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e336433656d3168616d566f4d476330626e6c354e446377624770316248677a6332706863326435623252794d7a55784d6e686f4e795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f356b35765a7752465a5235615a656e6971622f67697068792e676966" alt="vsr2414" width="280" />
