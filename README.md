@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer | Computer Science Undergraduate at University of Colombo School of Computing  </h3>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/stable-diffusion-ai-animation-warpfusion-aVDUOCZWS02J9PXxDp" alt="vsr2414" width="280" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djk1bmZoam1pODM4ODVjemQ4MDJmZ3F2dHZsa2hxOGNqamRhbmMyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aVDUOCZWS02J9PXxDp/giphy.gif" alt="vsr2414" width="280" />
 </p>
 
 <p align="center">
