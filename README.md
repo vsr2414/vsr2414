@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer | Computer Science Undergraduate at University of Colombo School of Computing  </h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGc5OHlxenhjaGR4aWZxcXh1MmRvNWlxbGxmbnU4dW9yM2Y5aHA1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" alt="vsr2414" width="280" />
+  <img src="https://camo.githubusercontent.com/54ba207936e3510778aa1fe68ac4bb788178cd8137866ddb0c3d647e896c32f3/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e4763354f486c78656e686a6147523461575a78635868314d6d52764e576c786247786d626e5534645739794d325935614841315a795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f356b35765a7752465a5235615a656e6971622f67697068792e676966" alt="vsr2414" width="280" />
 </p>
 
 <p align="center">
