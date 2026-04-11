@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Education:** Computer Science student at University of Colombo School of Computing   
-- 🌦️ **Latest Project:** <a href="https://github.com/vsr2414/Insta-Meal">  
+- 🌦️ **Latest Project:** [Insta-Meal](https://github.com/vsr2414/Insta-Meal)  
 - 🚀 **Currently Exploring:** React, Vue.js, Next.js, Flutter and advanced DOM APIs  
 - 💬 **Interests:** Frontend development, backend architecture, multi-language applications  
 - 🌍 **Languages:** English, Sinhala, Tamil  
