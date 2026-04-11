@@ -15,10 +15,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education:** Computer Science student at University of Colombo School of Computing  
-- 🌐 **Portfolio:** 
-- 🌦️ **Latest Project:**  
-- 🚀 **Currently Exploring:** React, Vue.js, GSAP, LINQ, i18n, and advanced DOM APIs  
+- 🎓 **Education:** Computer Science student at University of Colombo School of Computing   
+- 🌦️ **Latest Project:** <a href="https://github.com/vsr2414/Insta-Meal">  
+- 🚀 **Currently Exploring:** React, Vue.js, Next.js, Flutter and advanced DOM APIs  
 - 💬 **Interests:** Frontend development, backend architecture, multi-language applications  
 - 🌍 **Languages:** English, Sinhala, Tamil  
 - ✨ **Fun Fact:** I love merging creative design with scalable, maintainable code
@@ -36,20 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/w3c/w3c-icon.svg" title="DOM API" width="45"/>
 </p>
-
----
-
-## 🏆 GitHub Highlights
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai" alt="GitHub Trophies"/>
-  </a>
-</p>
-
----
-
-## 🚀 Featured Projects
 
 ---
 
