@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer | Computer Science Undergraduate at University of Colombo School of Computing  </h3>
 
 <p align="center">
-  <img src="./waving.gif" alt="vsr2414" width="280" />
+  <img src="https://media.baamboozle.com/uploads/images/717027/95af6b71-26f3-44f2-b02e-1fce19c0ce3f.gif" alt="vsr2414" width="280" />
 </p>
 
 <p align="center">
